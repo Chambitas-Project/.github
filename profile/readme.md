@@ -33,7 +33,7 @@ El proyecto utiliza un enfoque de **Ecosistema de Microservicios** orquestado ba
 
 ## 📋 Prerrequisitos para Desarrolladores
 Para contribuir o levantar el entorno local, asegúrate de tener:
-1. **Node.js** (v18+) y **pnpm** instalado globalmente: `npm install -g pnpm`
+1. **Node.js** (v22.12+) y **pnpm** instalado globalmente: `npm install -g pnpm`
 2. **Python** 3.10+ para el motor de ML.
 3. **Docker Desktop** para la orquestación de servicios.
 4. Aprobar los builds de dependencias nativas: `pnpm approve-builds`
