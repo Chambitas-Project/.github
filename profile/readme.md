@@ -39,7 +39,7 @@ Para contribuir o levantar el entorno local, asegúrate de tener:
 4. Aprobar los builds de dependencias nativas: `pnpm approve-builds`
 
 ## 📂 Repositorios
-- [chambitas-monorepo](https://github.com/Chambitas-Project/chambitas-monorepo): Repositorio principal que contiene todas las aplicaciones y librerías compartidas.
+- [chambitas-turborepo](https://github.com/Chambitas-Project/chambitas-turborepo): Repositorio principal que contiene todas las aplicaciones y librerías compartidas.
 
 ---
 © 2026 Chambitas Project - Facultad de Ingeniería, UPC.
